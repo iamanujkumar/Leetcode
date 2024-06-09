@@ -16,6 +16,7 @@
 | [0283-move-zeroes](https://github.com/iamanujkumar/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/iamanujkumar/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/iamanujkumar/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/iamanujkumar/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/iamanujkumar/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 # Two Pointers
 |  |
@@ -37,6 +38,7 @@
 | [0169-majority-element](https://github.com/iamanujkumar/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/iamanujkumar/Leetcode/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/iamanujkumar/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/iamanujkumar/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 # Binary Search
 |  |
 | ------- |
@@ -70,3 +72,4 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/iamanujkumar/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/iamanujkumar/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
