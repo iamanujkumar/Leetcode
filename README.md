@@ -17,6 +17,7 @@
 | [0485-max-consecutive-ones](https://github.com/iamanujkumar/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/iamanujkumar/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/iamanujkumar/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1137-height-checker](https://github.com/iamanujkumar/Leetcode/tree/master/1137-height-checker) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/iamanujkumar/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 # Two Pointers
 |  |
@@ -54,6 +55,7 @@
 | [0075-sort-colors](https://github.com/iamanujkumar/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/iamanujkumar/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/iamanujkumar/Leetcode/tree/master/0268-missing-number) |
+| [1137-height-checker](https://github.com/iamanujkumar/Leetcode/tree/master/1137-height-checker) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -73,3 +75,7 @@
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/iamanujkumar/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/iamanujkumar/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/iamanujkumar/Leetcode/tree/master/1137-height-checker) |
