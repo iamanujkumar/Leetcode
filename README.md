@@ -22,6 +22,7 @@
 | [1137-height-checker](https://github.com/iamanujkumar/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/iamanujkumar/Leetcode/tree/master/1217-relative-sort-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/iamanujkumar/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/iamanujkumar/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/iamanujkumar/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 # Two Pointers
 |  |
@@ -65,6 +66,7 @@
 | [0268-missing-number](https://github.com/iamanujkumar/Leetcode/tree/master/0268-missing-number) |
 | [1137-height-checker](https://github.com/iamanujkumar/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/iamanujkumar/Leetcode/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/iamanujkumar/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -97,3 +99,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/iamanujkumar/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+# Greedy
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/iamanujkumar/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
