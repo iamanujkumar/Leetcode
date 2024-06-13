@@ -20,6 +20,7 @@
 | [1137-height-checker](https://github.com/iamanujkumar/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/iamanujkumar/Leetcode/tree/master/1217-relative-sort-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/iamanujkumar/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/iamanujkumar/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 # Two Pointers
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0075-sort-colors](https://github.com/iamanujkumar/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/iamanujkumar/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/iamanujkumar/Leetcode/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/iamanujkumar/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 # Math
 |  |
 | ------- |
@@ -83,3 +85,7 @@
 | ------- |
 | [1137-height-checker](https://github.com/iamanujkumar/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/iamanujkumar/Leetcode/tree/master/1217-relative-sort-array) |
+# Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/iamanujkumar/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
