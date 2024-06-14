@@ -18,6 +18,7 @@
 | [0283-move-zeroes](https://github.com/iamanujkumar/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/iamanujkumar/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/iamanujkumar/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/iamanujkumar/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/iamanujkumar/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/iamanujkumar/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/iamanujkumar/Leetcode/tree/master/1217-relative-sort-array) |
@@ -64,6 +65,7 @@
 | [0075-sort-colors](https://github.com/iamanujkumar/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/iamanujkumar/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/iamanujkumar/Leetcode/tree/master/0268-missing-number) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/iamanujkumar/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/iamanujkumar/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/iamanujkumar/Leetcode/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/iamanujkumar/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -89,6 +91,7 @@
 # Counting Sort
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/iamanujkumar/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/iamanujkumar/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/iamanujkumar/Leetcode/tree/master/1217-relative-sort-array) |
 # Simulation
@@ -102,4 +105,5 @@
 # Greedy
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/iamanujkumar/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/iamanujkumar/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
