@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/iamanujkumar/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamanujkumar/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/iamanujkumar/Leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/iamanujkumar/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/iamanujkumar/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/iamanujkumar/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/iamanujkumar/Leetcode/tree/master/0075-sort-colors) |
@@ -38,6 +39,7 @@
 # Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/iamanujkumar/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/iamanujkumar/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/iamanujkumar/Leetcode/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/iamanujkumar/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -112,4 +114,5 @@
 # Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/iamanujkumar/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/iamanujkumar/Leetcode/tree/master/0073-set-matrix-zeroes) |
