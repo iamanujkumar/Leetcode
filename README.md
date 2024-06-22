@@ -119,3 +119,11 @@
 | [0048-rotate-image](https://github.com/iamanujkumar/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/iamanujkumar/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/iamanujkumar/Leetcode/tree/master/0073-set-matrix-zeroes) |
+# String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/iamanujkumar/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+# Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/iamanujkumar/Leetcode/tree/master/1078-remove-outermost-parentheses) |
