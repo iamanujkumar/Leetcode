@@ -45,6 +45,7 @@
 | [0189-rotate-array](https://github.com/iamanujkumar/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/iamanujkumar/Leetcode/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/iamanujkumar/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [2032-largest-odd-number-in-string](https://github.com/iamanujkumar/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 # Hash Table
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/iamanujkumar/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [2032-largest-odd-number-in-string](https://github.com/iamanujkumar/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/iamanujkumar/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Matrix
 |  |
@@ -125,6 +127,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/iamanujkumar/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/iamanujkumar/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/iamanujkumar/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 # Stack
 |  |
 | ------- |
