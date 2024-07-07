@@ -132,3 +132,14 @@
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/iamanujkumar/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/iamanujkumar/Leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/iamanujkumar/Leetcode/tree/master/0014-longest-common-prefix) |
+<!---LeetCode Topics End-->
