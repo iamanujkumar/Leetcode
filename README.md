@@ -139,6 +139,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/iamanujkumar/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/iamanujkumar/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/iamanujkumar/Leetcode/tree/master/0205-isomorphic-strings) |
 ## Trie
 |  |
 | ------- |
@@ -147,4 +148,8 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/iamanujkumar/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/iamanujkumar/Leetcode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
