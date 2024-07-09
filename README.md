@@ -164,4 +164,12 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/iamanujkumar/Leetcode/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/iamanujkumar/Leetcode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/iamanujkumar/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
