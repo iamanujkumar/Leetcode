@@ -17,10 +17,11 @@ public:
     TreeNode* bottomLeft = root;
     while (!q.empty()) {
         int size = q.size();
+        bottomLeft = q.front(); 
         for (int i = 0; i < size; ++i) {
             TreeNode* node = q.front();
             q.pop();
-            if (i == 0) bottomLeft = node;    
+              
             if (node->left) q.push(node->left);
             if (node->right) q.push(node->right);
         }
