@@ -171,6 +171,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/iamanujkumar/Leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/iamanujkumar/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/iamanujkumar/Leetcode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/iamanujkumar/Leetcode/tree/master/2050-count-good-numbers) |
 ## Recursion
@@ -183,6 +184,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/iamanujkumar/Leetcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/iamanujkumar/Leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/iamanujkumar/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Backtracking
 |  |
@@ -266,4 +268,8 @@
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/iamanujkumar/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/iamanujkumar/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
