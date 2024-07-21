@@ -211,6 +211,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/iamanujkumar/Leetcode/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamanujkumar/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/iamanujkumar/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/iamanujkumar/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -301,4 +302,5 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/iamanujkumar/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamanujkumar/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
