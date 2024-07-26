@@ -1,18 +1,15 @@
 class Solution {
 public:
-int fun(vector<int>&nums,int n,vector<int>&dp){
-    if(n==0) {
-       return nums[n];
-    }
-    if(n<0) return 0;
-    if(dp[n]!=-1) return dp[n];
-
-   int pick = nums[n] + fun(nums, n - 2,dp);
-    int no = fun(nums, n-1,dp);
-    return dp[n]=max(pick,no);
-}
     int rob(vector<int>& nums) {
-        vector<int>dp(nums.size(),-1);
-        return fun(nums,nums.size()-1,dp);
+        int n=nums.size();
+        if(n==0) return 0;
+        if(n==1) return nums[0];
+        vector<int>dp(n,0);
+        dp[0] = nums[0];
+        dp[1] = max(nums[0],nums[1]);
+        for(int i=2;i<n;i++){
+            dp[i] = max(nums[i]+dp[i-2],dp[i-1]);
+        }
+        return dp[n-1];
     }
 };
