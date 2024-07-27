@@ -145,6 +145,7 @@
 | [0242-valid-anagram](https://github.com/iamanujkumar/Leetcode/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/iamanujkumar/Leetcode/tree/master/0812-rotate-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/iamanujkumar/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/iamanujkumar/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Trie
 |  |
 | ------- |
@@ -220,6 +221,7 @@
 | [0948-sort-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/0948-sort-an-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/iamanujkumar/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/iamanujkumar/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/iamanujkumar/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -331,4 +333,12 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/0948-sort-an-array) |
+## Graph
+|  |
+| ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/iamanujkumar/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/iamanujkumar/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
