@@ -191,6 +191,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/iamanujkumar/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/iamanujkumar/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0213-house-robber-ii) |
+| [1511-count-number-of-teams](https://github.com/iamanujkumar/Leetcode/tree/master/1511-count-number-of-teams) |
 ## Backtracking
 |  |
 | ------- |
@@ -221,6 +222,7 @@
 | [0948-sort-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/iamanujkumar/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/iamanujkumar/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/iamanujkumar/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/iamanujkumar/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/iamanujkumar/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Bit Manipulation
@@ -342,4 +344,8 @@
 |  |
 | ------- |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/iamanujkumar/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/iamanujkumar/Leetcode/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
