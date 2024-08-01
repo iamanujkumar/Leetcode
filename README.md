@@ -145,6 +145,7 @@
 | [0242-valid-anagram](https://github.com/iamanujkumar/Leetcode/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/iamanujkumar/Leetcode/tree/master/0812-rotate-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/iamanujkumar/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2727-number-of-senior-citizens](https://github.com/iamanujkumar/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/iamanujkumar/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Trie
 |  |
@@ -224,6 +225,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/iamanujkumar/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/iamanujkumar/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/iamanujkumar/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2727-number-of-senior-citizens](https://github.com/iamanujkumar/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/iamanujkumar/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Bit Manipulation
 |  |
