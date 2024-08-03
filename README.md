@@ -175,6 +175,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/iamanujkumar/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/iamanujkumar/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/iamanujkumar/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/iamanujkumar/Leetcode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/iamanujkumar/Leetcode/tree/master/2050-count-good-numbers) |
@@ -188,6 +189,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/iamanujkumar/Leetcode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/iamanujkumar/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/iamanujkumar/Leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/iamanujkumar/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/iamanujkumar/Leetcode/tree/master/0198-house-robber) |
@@ -355,4 +357,8 @@
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/iamanujkumar/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/iamanujkumar/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
