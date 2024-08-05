@@ -5,11 +5,11 @@ public:
         int count=0;
         vector<string>v;
         unordered_map<string,int>mp;
-        for(const auto & it:arr){
+        for(auto it:arr){
             mp[it]++;
         }
-        for(const auto & it:arr){
-           if (mp[it] == 1) {
+        for(auto it:arr){
+            if(mp[it]==1){
                 v.push_back(it);
             }
         }
