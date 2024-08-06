@@ -148,6 +148,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/iamanujkumar/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/iamanujkumar/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Trie
 |  |
 | ------- |
@@ -165,6 +166,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/iamanujkumar/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/iamanujkumar/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -175,6 +177,7 @@
 | [0242-valid-anagram](https://github.com/iamanujkumar/Leetcode/tree/master/0242-valid-anagram) |
 | [0948-sort-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/iamanujkumar/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
 | ------- |
@@ -312,6 +315,7 @@
 | ------- |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/iamanujkumar/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/iamanujkumar/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -356,6 +360,7 @@
 | ------- |
 | [0948-sort-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/0948-sort-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph
 |  |
 | ------- |
