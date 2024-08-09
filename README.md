@@ -164,6 +164,7 @@
 | [0073-set-matrix-zeroes](https://github.com/iamanujkumar/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/iamanujkumar/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/iamanujkumar/Leetcode/tree/master/0242-valid-anagram) |
+| [0870-magic-squares-in-grid](https://github.com/iamanujkumar/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/iamanujkumar/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/iamanujkumar/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -187,6 +188,7 @@
 | [0070-climbing-stairs](https://github.com/iamanujkumar/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/iamanujkumar/Leetcode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/iamanujkumar/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/iamanujkumar/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [2050-count-good-numbers](https://github.com/iamanujkumar/Leetcode/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
@@ -238,6 +240,7 @@
 | [0213-house-robber-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/iamanujkumar/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/iamanujkumar/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0870-magic-squares-in-grid](https://github.com/iamanujkumar/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/iamanujkumar/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/iamanujkumar/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -330,6 +333,7 @@
 | [0063-unique-paths-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/iamanujkumar/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/iamanujkumar/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0870-magic-squares-in-grid](https://github.com/iamanujkumar/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/iamanujkumar/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/iamanujkumar/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/iamanujkumar/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
