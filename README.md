@@ -249,6 +249,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/iamanujkumar/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/iamanujkumar/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/iamanujkumar/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/iamanujkumar/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/iamanujkumar/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/iamanujkumar/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -288,6 +289,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/iamanujkumar/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/iamanujkumar/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/iamanujkumar/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/iamanujkumar/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -317,6 +319,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/iamanujkumar/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/iamanujkumar/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/iamanujkumar/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/iamanujkumar/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Stack
 |  |
 | ------- |
@@ -341,6 +344,7 @@
 | [0921-spiral-matrix-iii](https://github.com/iamanujkumar/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/iamanujkumar/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/iamanujkumar/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/iamanujkumar/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/iamanujkumar/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Binary Search
 |  |
@@ -403,4 +407,8 @@
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/iamanujkumar/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/iamanujkumar/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
