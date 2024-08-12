@@ -276,6 +276,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/iamanujkumar/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/iamanujkumar/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/iamanujkumar/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/iamanujkumar/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/iamanujkumar/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/iamanujkumar/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Breadth-First Search
@@ -303,6 +304,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/iamanujkumar/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/iamanujkumar/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/iamanujkumar/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/iamanujkumar/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/iamanujkumar/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/iamanujkumar/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Depth-First Search
@@ -360,6 +362,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/iamanujkumar/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -411,4 +414,16 @@
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/iamanujkumar/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/iamanujkumar/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/iamanujkumar/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/iamanujkumar/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
