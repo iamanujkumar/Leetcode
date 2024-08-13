@@ -158,6 +158,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/iamanujkumar/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0658-find-k-closest-elements](https://github.com/iamanujkumar/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -179,6 +180,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/iamanujkumar/Leetcode/tree/master/0242-valid-anagram) |
+| [0658-find-k-closest-elements](https://github.com/iamanujkumar/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/iamanujkumar/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -243,6 +245,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/iamanujkumar/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/iamanujkumar/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/iamanujkumar/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0870-magic-squares-in-grid](https://github.com/iamanujkumar/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/iamanujkumar/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/0948-sort-an-array) |
@@ -357,6 +360,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamanujkumar/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/iamanujkumar/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/iamanujkumar/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -366,6 +370,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/iamanujkumar/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/iamanujkumar/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
@@ -401,6 +406,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/iamanujkumar/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/iamanujkumar/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Combinatorics
 |  |
