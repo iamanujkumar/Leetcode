@@ -171,6 +171,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/iamanujkumar/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/iamanujkumar/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/iamanujkumar/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/iamanujkumar/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String Matching
@@ -187,6 +188,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/iamanujkumar/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/iamanujkumar/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/iamanujkumar/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
@@ -262,6 +264,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/iamanujkumar/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/iamanujkumar/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/iamanujkumar/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/iamanujkumar/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/iamanujkumar/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/iamanujkumar/Leetcode/tree/master/2727-number-of-senior-citizens) |
