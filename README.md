@@ -144,6 +144,7 @@
 | [0205-isomorphic-strings](https://github.com/iamanujkumar/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/iamanujkumar/Leetcode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/iamanujkumar/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0664-strange-printer](https://github.com/iamanujkumar/Leetcode/tree/master/0664-strange-printer) |
 | [0812-rotate-string](https://github.com/iamanujkumar/Leetcode/tree/master/0812-rotate-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/iamanujkumar/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -222,6 +223,7 @@
 | [0198-house-robber](https://github.com/iamanujkumar/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0664-strange-printer](https://github.com/iamanujkumar/Leetcode/tree/master/0664-strange-printer) |
 | [1511-count-number-of-teams](https://github.com/iamanujkumar/Leetcode/tree/master/1511-count-number-of-teams) |
 ## Backtracking
 |  |
