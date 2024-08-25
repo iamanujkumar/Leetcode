@@ -297,6 +297,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/iamanujkumar/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/iamanujkumar/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/iamanujkumar/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/iamanujkumar/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/iamanujkumar/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/iamanujkumar/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/iamanujkumar/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -325,6 +326,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/iamanujkumar/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/iamanujkumar/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/iamanujkumar/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/iamanujkumar/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/iamanujkumar/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/iamanujkumar/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/iamanujkumar/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -339,6 +341,7 @@
 | [0101-symmetric-tree](https://github.com/iamanujkumar/Leetcode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/iamanujkumar/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/iamanujkumar/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/iamanujkumar/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/iamanujkumar/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/iamanujkumar/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/iamanujkumar/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -350,6 +353,7 @@
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/iamanujkumar/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/iamanujkumar/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Greedy
 |  |
