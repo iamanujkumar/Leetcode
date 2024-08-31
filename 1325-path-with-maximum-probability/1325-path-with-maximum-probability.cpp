@@ -12,16 +12,16 @@ public:
         maxProb[start_node] = 1.0;
         
         while(!pq.empty()) {
-            auto [currProb, currNode] = pq.top();
+            auto [currProb, nNode] = pq.top();
             pq.pop();
-            if(currNode == end_node) {
+            if(nNode == end_node) {
                 return currProb;
             }
-            for(auto& adj : g[currNode]) {
+            for(auto& adj : g[nNode]) {
                 int nextNode = adj.first;
-                double edgeProb = adj.second;
-                if(maxProb[nextNode] < currProb * edgeProb) {
-                    maxProb[nextNode] = currProb * edgeProb;
+                double edg = adj.second;
+                if(maxProb[nextNode] < currProb * edg) {
+                    maxProb[nextNode] = currProb * edg;
                     pq.push({maxProb[nextNode], nextNode});
                 }
             }
