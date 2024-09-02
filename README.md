@@ -282,6 +282,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/iamanujkumar/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/iamanujkumar/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/iamanujkumar/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/iamanujkumar/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/iamanujkumar/Leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/iamanujkumar/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -404,6 +405,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/iamanujkumar/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/iamanujkumar/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/iamanujkumar/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/iamanujkumar/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -472,6 +474,7 @@
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/iamanujkumar/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/iamanujkumar/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/iamanujkumar/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/iamanujkumar/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Union Find
 |  |
@@ -500,4 +503,8 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/iamanujkumar/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/iamanujkumar/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
