@@ -238,6 +238,7 @@
 | [0063-unique-paths-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/iamanujkumar/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/iamanujkumar/Leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/iamanujkumar/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/iamanujkumar/Leetcode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/iamanujkumar/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/iamanujkumar/Leetcode/tree/master/0198-house-robber) |
@@ -273,6 +274,7 @@
 | [0078-subsets](https://github.com/iamanujkumar/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/iamanujkumar/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/iamanujkumar/Leetcode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/iamanujkumar/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamanujkumar/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
