@@ -187,6 +187,7 @@
 | [0242-valid-anagram](https://github.com/iamanujkumar/Leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/iamanujkumar/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0432-all-oone-data-structure](https://github.com/iamanujkumar/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0870-magic-squares-in-grid](https://github.com/iamanujkumar/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/iamanujkumar/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0906-walking-robot-simulation](https://github.com/iamanujkumar/Leetcode/tree/master/0906-walking-robot-simulation) |
@@ -552,6 +553,7 @@
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/iamanujkumar/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/iamanujkumar/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/iamanujkumar/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -579,6 +581,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/iamanujkumar/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/iamanujkumar/Leetcode/tree/master/0859-design-circular-deque) |
 | [2411-spiral-matrix-iv](https://github.com/iamanujkumar/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/iamanujkumar/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -604,4 +607,8 @@
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/iamanujkumar/Leetcode/tree/master/0859-design-circular-deque) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/iamanujkumar/Leetcode/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
