@@ -264,6 +264,7 @@
 | [0518-coin-change-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/iamanujkumar/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0664-strange-printer](https://github.com/iamanujkumar/Leetcode/tree/master/0664-strange-printer) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/iamanujkumar/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/iamanujkumar/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/iamanujkumar/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/iamanujkumar/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -319,6 +320,7 @@
 | [0921-spiral-matrix-iii](https://github.com/iamanujkumar/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/iamanujkumar/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/iamanujkumar/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1293-three-consecutive-odds](https://github.com/iamanujkumar/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/iamanujkumar/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/iamanujkumar/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
