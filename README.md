@@ -196,6 +196,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/iamanujkumar/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/iamanujkumar/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/iamanujkumar/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1256-rank-transform-of-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/iamanujkumar/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/iamanujkumar/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/iamanujkumar/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -219,6 +220,7 @@
 | [0658-find-k-closest-elements](https://github.com/iamanujkumar/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/iamanujkumar/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/0948-sort-an-array) |
+| [1256-rank-transform-of-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/iamanujkumar/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/iamanujkumar/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -327,6 +329,7 @@
 | [0948-sort-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/iamanujkumar/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/iamanujkumar/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1256-rank-transform-of-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/iamanujkumar/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/iamanujkumar/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/iamanujkumar/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
