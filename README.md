@@ -177,6 +177,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/iamanujkumar/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/iamanujkumar/Leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/iamanujkumar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/iamanujkumar/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -294,6 +295,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/iamanujkumar/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/iamanujkumar/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/iamanujkumar/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/iamanujkumar/Leetcode/tree/master/0039-combination-sum) |
