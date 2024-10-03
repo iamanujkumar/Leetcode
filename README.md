@@ -178,6 +178,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/iamanujkumar/Leetcode/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/iamanujkumar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/iamanujkumar/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/iamanujkumar/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/iamanujkumar/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -213,6 +214,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/iamanujkumar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/iamanujkumar/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/iamanujkumar/Leetcode/tree/master/0242-valid-anagram) |
@@ -303,6 +305,7 @@
 | [0073-set-matrix-zeroes](https://github.com/iamanujkumar/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/iamanujkumar/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/iamanujkumar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/iamanujkumar/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/iamanujkumar/Leetcode/tree/master/0120-triangle) |
