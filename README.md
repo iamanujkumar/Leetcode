@@ -160,6 +160,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/iamanujkumar/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/iamanujkumar/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/iamanujkumar/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1923-sentence-similarity-iii](https://github.com/iamanujkumar/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/iamanujkumar/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/iamanujkumar/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -185,6 +186,7 @@
 | [0287-find-the-duplicate-number](https://github.com/iamanujkumar/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/iamanujkumar/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/iamanujkumar/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1923-sentence-similarity-iii](https://github.com/iamanujkumar/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/iamanujkumar/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
@@ -358,6 +360,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/iamanujkumar/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/iamanujkumar/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/iamanujkumar/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1923-sentence-similarity-iii](https://github.com/iamanujkumar/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/iamanujkumar/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/iamanujkumar/Leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/iamanujkumar/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
