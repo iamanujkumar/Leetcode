@@ -275,6 +275,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/iamanujkumar/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/iamanujkumar/Leetcode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/iamanujkumar/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/iamanujkumar/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -324,6 +325,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/iamanujkumar/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/iamanujkumar/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/iamanujkumar/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/iamanujkumar/Leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/iamanujkumar/Leetcode/tree/master/0055-jump-game) |
@@ -489,6 +491,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/iamanujkumar/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/iamanujkumar/Leetcode/tree/master/0179-largest-number) |
