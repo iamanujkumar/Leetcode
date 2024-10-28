@@ -230,6 +230,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/iamanujkumar/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/iamanujkumar/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/iamanujkumar/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/iamanujkumar/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -258,6 +259,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/iamanujkumar/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/iamanujkumar/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/iamanujkumar/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/iamanujkumar/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
@@ -319,6 +321,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iamanujkumar/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/iamanujkumar/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1511-count-number-of-teams](https://github.com/iamanujkumar/Leetcode/tree/master/1511-count-number-of-teams) |
+| [2586-longest-square-streak-in-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/iamanujkumar/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Backtracking
 |  |
@@ -418,6 +421,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/iamanujkumar/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/iamanujkumar/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/iamanujkumar/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/iamanujkumar/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/iamanujkumar/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/iamanujkumar/Leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -587,6 +591,7 @@
 | [0729-my-calendar-i](https://github.com/iamanujkumar/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0731-my-calendar-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/iamanujkumar/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2586-longest-square-streak-in-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
