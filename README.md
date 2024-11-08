@@ -423,6 +423,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/iamanujkumar/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/iamanujkumar/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/iamanujkumar/Leetcode/tree/master/1923-sentence-similarity-iii) |
+| [1940-maximum-xor-for-each-query](https://github.com/iamanujkumar/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/iamanujkumar/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/iamanujkumar/Leetcode/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/iamanujkumar/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -457,6 +458,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/iamanujkumar/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/iamanujkumar/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/iamanujkumar/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1940-maximum-xor-for-each-query](https://github.com/iamanujkumar/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/iamanujkumar/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/iamanujkumar/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/iamanujkumar/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -740,6 +742,7 @@
 | [0731-my-calendar-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/iamanujkumar/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/iamanujkumar/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1940-maximum-xor-for-each-query](https://github.com/iamanujkumar/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/iamanujkumar/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/iamanujkumar/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Linked List
