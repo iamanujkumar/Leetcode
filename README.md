@@ -166,6 +166,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/iamanujkumar/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/iamanujkumar/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/iamanujkumar/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/iamanujkumar/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/iamanujkumar/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/iamanujkumar/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/iamanujkumar/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -205,6 +206,7 @@
 | [0658-find-k-closest-elements](https://github.com/iamanujkumar/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/iamanujkumar/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/iamanujkumar/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/iamanujkumar/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/iamanujkumar/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/iamanujkumar/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/iamanujkumar/Leetcode/tree/master/1972-rotating-the-box) |
@@ -255,6 +257,7 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/iamanujkumar/Leetcode/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/iamanujkumar/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Sorting
 |  |
 | ------- |
