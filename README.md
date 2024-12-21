@@ -552,6 +552,7 @@
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/iamanujkumar/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/iamanujkumar/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/iamanujkumar/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/iamanujkumar/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -620,6 +621,7 @@
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/iamanujkumar/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/iamanujkumar/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/iamanujkumar/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/iamanujkumar/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Stack
 |  |
 | ------- |
