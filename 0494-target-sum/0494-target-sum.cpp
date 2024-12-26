@@ -7,15 +7,10 @@ public:
         for (int i = 0; i < n; i++) {
             sum += nums[i];
         }
-
-        // Check if the problem is feasible
         if (sum < abs(target) || (sum + target) % 2 != 0) {
             return 0;
         }
-
         int val = (sum + target) / 2;
-
-        // If val is negative or too large, return 0
         if (val < 0 || val > sum) {
             return 0;
         }
