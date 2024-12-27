@@ -359,6 +359,7 @@
 | [0518-coin-change-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/iamanujkumar/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0664-strange-printer](https://github.com/iamanujkumar/Leetcode/tree/master/0664-strange-printer) |
+| [1063-best-sightseeing-pair](https://github.com/iamanujkumar/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/iamanujkumar/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/iamanujkumar/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/iamanujkumar/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -443,6 +444,7 @@
 | [0948-sort-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/iamanujkumar/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/iamanujkumar/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1063-best-sightseeing-pair](https://github.com/iamanujkumar/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/iamanujkumar/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/iamanujkumar/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/1256-rank-transform-of-an-array) |
