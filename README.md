@@ -359,6 +359,7 @@
 | [0518-coin-change-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/iamanujkumar/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0664-strange-printer](https://github.com/iamanujkumar/Leetcode/tree/master/0664-strange-printer) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/iamanujkumar/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/iamanujkumar/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/iamanujkumar/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/iamanujkumar/Leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -431,6 +432,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/iamanujkumar/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/iamanujkumar/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/iamanujkumar/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/iamanujkumar/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/iamanujkumar/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/iamanujkumar/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0731-my-calendar-ii) |
