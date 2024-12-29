@@ -151,6 +151,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/iamanujkumar/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/iamanujkumar/Leetcode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/iamanujkumar/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0392-is-subsequence](https://github.com/iamanujkumar/Leetcode/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/iamanujkumar/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0564-find-the-closest-palindrome](https://github.com/iamanujkumar/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0583-delete-operation-for-two-strings](https://github.com/iamanujkumar/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -211,6 +212,7 @@
 | [0125-valid-palindrome](https://github.com/iamanujkumar/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/iamanujkumar/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/iamanujkumar/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/iamanujkumar/Leetcode/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/iamanujkumar/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/iamanujkumar/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/iamanujkumar/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -356,6 +358,7 @@
 | [0213-house-robber-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/iamanujkumar/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0392-is-subsequence](https://github.com/iamanujkumar/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/iamanujkumar/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/iamanujkumar/Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/iamanujkumar/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
