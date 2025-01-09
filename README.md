@@ -344,6 +344,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/iamanujkumar/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/iamanujkumar/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/iamanujkumar/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/iamanujkumar/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -940,6 +941,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/iamanujkumar/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0432-all-oone-data-structure](https://github.com/iamanujkumar/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/iamanujkumar/Leetcode/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/iamanujkumar/Leetcode/tree/master/0908-middle-of-the-linked-list) |
