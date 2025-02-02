@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool check(vector<int>& nums) {
+     bool check(vector<int>& nums) {
         int n = nums.size();
         int count = 0;
         
