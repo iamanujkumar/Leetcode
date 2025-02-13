@@ -367,6 +367,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/iamanujkumar/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/iamanujkumar/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/iamanujkumar/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/iamanujkumar/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/iamanujkumar/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -1036,6 +1037,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/iamanujkumar/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/iamanujkumar/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/iamanujkumar/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/iamanujkumar/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0432-all-oone-data-structure](https://github.com/iamanujkumar/Leetcode/tree/master/0432-all-oone-data-structure) |
