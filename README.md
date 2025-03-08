@@ -193,6 +193,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/iamanujkumar/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/iamanujkumar/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/iamanujkumar/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/iamanujkumar/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/iamanujkumar/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/iamanujkumar/Leetcode/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/iamanujkumar/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -1002,6 +1003,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/iamanujkumar/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/iamanujkumar/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/iamanujkumar/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/iamanujkumar/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/iamanujkumar/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/iamanujkumar/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/iamanujkumar/Leetcode/tree/master/2868-continuous-subarrays) |
