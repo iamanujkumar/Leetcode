@@ -1,0 +1,28 @@
+class Solution {
+public:
+    int maxRemoval(vector<int>& nums, vector<vector<int>>& queries) {
+        int n=nums.size();
+        priority_queue<int,vector<int>,greater<int>> used_query;
+        priority_queue<int> available_query;
+        sort(queries.begin(),queries.end());
+        int query_pos = 0;
+        int cnt = 0;
+        for(int i=0;i<n;++i){
+            while(query_pos<queries.size() and queries[query_pos][0]==i){
+                available_query.push(queries[query_pos][1]);
+                query_pos++;
+            }
+            nums[i] -= used_query.size();
+            while(nums[i]>0 and !available_query.empty() and available_query.top()>=i){
+                used_query.push(available_query.top());
+                available_query.pop();
+                nums[i]--;
+                cnt++;
+            }
+            if(nums[i]>0)   return -1;
+            while(!used_query.empty() and used_query.top()==i)
+                used_query.pop();
+        }
+        return queries.size() - cnt;
+    }
+};
