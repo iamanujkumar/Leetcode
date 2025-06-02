@@ -558,6 +558,7 @@
 | [0120-triangle](https://github.com/iamanujkumar/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamanujkumar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/iamanujkumar/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/iamanujkumar/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamanujkumar/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamanujkumar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -937,6 +938,7 @@
 | [0045-jump-game-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/iamanujkumar/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/iamanujkumar/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/iamanujkumar/Leetcode/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/iamanujkumar/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/iamanujkumar/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
