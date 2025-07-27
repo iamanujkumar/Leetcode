@@ -479,6 +479,7 @@
 | [0005-longest-palindromic-substring](https://github.com/iamanujkumar/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/iamanujkumar/Leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/iamanujkumar/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/iamanujkumar/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/iamanujkumar/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -566,6 +567,7 @@
 | [0045-jump-game-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/iamanujkumar/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/iamanujkumar/Leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/iamanujkumar/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/iamanujkumar/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/iamanujkumar/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -1095,6 +1097,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/iamanujkumar/Leetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/iamanujkumar/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/iamanujkumar/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
