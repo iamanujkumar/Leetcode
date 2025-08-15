@@ -433,6 +433,7 @@
 | [0264-ugly-number-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/iamanujkumar/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/iamanujkumar/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/iamanujkumar/Leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/iamanujkumar/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0564-find-the-closest-palindrome](https://github.com/iamanujkumar/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/iamanujkumar/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -476,6 +477,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/iamanujkumar/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/iamanujkumar/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/iamanujkumar/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/iamanujkumar/Leetcode/tree/master/0342-power-of-four) |
 | [1197-parsing-a-boolean-expression](https://github.com/iamanujkumar/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/iamanujkumar/Leetcode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/iamanujkumar/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -796,6 +798,7 @@
 | [0136-single-number](https://github.com/iamanujkumar/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/iamanujkumar/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/iamanujkumar/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/iamanujkumar/Leetcode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/iamanujkumar/Leetcode/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/iamanujkumar/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/iamanujkumar/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
