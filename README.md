@@ -439,6 +439,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/iamanujkumar/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0670-maximum-swap](https://github.com/iamanujkumar/Leetcode/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/iamanujkumar/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0867-new-21-game](https://github.com/iamanujkumar/Leetcode/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/iamanujkumar/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iamanujkumar/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/iamanujkumar/Leetcode/tree/master/1448-maximum-69-number) |
@@ -513,6 +514,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/iamanujkumar/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0664-strange-printer](https://github.com/iamanujkumar/Leetcode/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/iamanujkumar/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0867-new-21-game](https://github.com/iamanujkumar/Leetcode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/iamanujkumar/Leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/iamanujkumar/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1063-best-sightseeing-pair](https://github.com/iamanujkumar/Leetcode/tree/master/1063-best-sightseeing-pair) |
@@ -1249,6 +1251,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamanujkumar/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/iamanujkumar/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/iamanujkumar/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0867-new-21-game](https://github.com/iamanujkumar/Leetcode/tree/master/0867-new-21-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/iamanujkumar/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/iamanujkumar/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/iamanujkumar/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -1476,4 +1479,8 @@
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/iamanujkumar/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/iamanujkumar/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/iamanujkumar/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/iamanujkumar/Leetcode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
