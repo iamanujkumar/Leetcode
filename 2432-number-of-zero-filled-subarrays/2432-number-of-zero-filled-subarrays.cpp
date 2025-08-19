@@ -18,7 +18,7 @@ public:
                     count++;
                     i++;
                 }
-                ans+=fun(count);
+                ans+=(count*(count+1))/2;
             }
             i++;
         }
