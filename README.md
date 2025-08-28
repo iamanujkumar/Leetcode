@@ -420,6 +420,7 @@
 | [3430-count-days-without-meetings](https://github.com/iamanujkumar/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/iamanujkumar/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/iamanujkumar/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3748-sort-matrix-by-diagonals](https://github.com/iamanujkumar/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
 |  |
 | ------- |
@@ -803,6 +804,7 @@
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/iamanujkumar/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/iamanujkumar/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/iamanujkumar/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3748-sort-matrix-by-diagonals](https://github.com/iamanujkumar/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3791-fruits-into-baskets-iii](https://github.com/iamanujkumar/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Bit Manipulation
 |  |
@@ -1091,6 +1093,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/iamanujkumar/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/iamanujkumar/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/iamanujkumar/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/iamanujkumar/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Search
 |  |
 | ------- |
