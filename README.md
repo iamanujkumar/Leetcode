@@ -287,6 +287,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamanujkumar/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/iamanujkumar/Leetcode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/iamanujkumar/Leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/iamanujkumar/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/iamanujkumar/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -581,6 +582,7 @@
 | [0027-remove-element](https://github.com/iamanujkumar/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/iamanujkumar/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/iamanujkumar/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/iamanujkumar/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/iamanujkumar/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0045-jump-game-ii) |
@@ -1059,6 +1061,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/iamanujkumar/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/iamanujkumar/Leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/iamanujkumar/Leetcode/tree/master/0064-minimum-path-sum) |
