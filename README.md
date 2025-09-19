@@ -233,6 +233,7 @@
 | [3637-count-number-of-balanced-permutations](https://github.com/iamanujkumar/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/iamanujkumar/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/iamanujkumar/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3797-design-spreadsheet](https://github.com/iamanujkumar/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Trie
 |  |
 | ------- |
@@ -371,6 +372,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/iamanujkumar/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/iamanujkumar/Leetcode/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/iamanujkumar/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3797-design-spreadsheet](https://github.com/iamanujkumar/Leetcode/tree/master/3797-design-spreadsheet) |
 ## String Matching
 |  |
 | ------- |
@@ -822,6 +824,7 @@
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/iamanujkumar/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/iamanujkumar/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3791-fruits-into-baskets-iii](https://github.com/iamanujkumar/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/iamanujkumar/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1113,6 +1116,7 @@
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/iamanujkumar/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/iamanujkumar/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/iamanujkumar/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/iamanujkumar/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
 | ------- |
@@ -1381,6 +1385,7 @@
 | [2429-design-a-food-rating-system](https://github.com/iamanujkumar/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/iamanujkumar/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/iamanujkumar/Leetcode/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/iamanujkumar/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Binary Search Tree
 |  |
 | ------- |
