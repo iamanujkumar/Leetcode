@@ -373,6 +373,7 @@
 | [3678-design-task-manager](https://github.com/iamanujkumar/Leetcode/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/iamanujkumar/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3797-design-spreadsheet](https://github.com/iamanujkumar/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/iamanujkumar/Leetcode/tree/master/3827-implement-router) |
 ## String Matching
 |  |
 | ------- |
@@ -825,6 +826,7 @@
 | [3748-sort-matrix-by-diagonals](https://github.com/iamanujkumar/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3791-fruits-into-baskets-iii](https://github.com/iamanujkumar/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/iamanujkumar/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/iamanujkumar/Leetcode/tree/master/3827-implement-router) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1161,6 +1163,7 @@
 | [3427-special-array-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/iamanujkumar/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/iamanujkumar/Leetcode/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1386,6 +1389,7 @@
 | [2434-design-a-number-container-system](https://github.com/iamanujkumar/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/iamanujkumar/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/iamanujkumar/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/iamanujkumar/Leetcode/tree/master/3827-implement-router) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1476,6 +1480,7 @@
 | [2868-continuous-subarrays](https://github.com/iamanujkumar/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3678-design-task-manager](https://github.com/iamanujkumar/Leetcode/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/iamanujkumar/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/iamanujkumar/Leetcode/tree/master/3827-implement-router) |
 ## Queue
 |  |
 | ------- |
@@ -1487,6 +1492,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/iamanujkumar/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/iamanujkumar/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/iamanujkumar/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/iamanujkumar/Leetcode/tree/master/3827-implement-router) |
 ## Doubly-Linked List
 |  |
 | ------- |
