@@ -603,6 +603,7 @@
 | [0027-remove-element](https://github.com/iamanujkumar/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/iamanujkumar/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/iamanujkumar/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/iamanujkumar/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/iamanujkumar/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/iamanujkumar/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0040-combination-sum-ii) |
@@ -1135,6 +1136,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/iamanujkumar/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/iamanujkumar/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/iamanujkumar/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamanujkumar/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
