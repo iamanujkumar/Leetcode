@@ -1,32 +1,24 @@
 class Solution {
 public:
-bool fun(int n,int w,vector<int>& nums, vector<vector<int>>&dp){
-    if(w==0) return true;
-    if(n==0) return false;
-    if(dp[n][w]!=-1) return dp[n][w];
-    if(nums[n-1]<=w){
-        return dp[n][w]= fun(n-1,w-nums[n-1],nums,dp) || fun(n-1,w,nums,dp);
+    bool fun(vector<int>& arr, int n, int sum, vector<vector<int>>& dp) {
+    if (sum == 0) return true;
+    if (n == 0) return false;
+    if (dp[n][sum] != -1) return dp[n][sum];
+    if (arr[n - 1] > sum)
+        return dp[n][sum] = fun(arr, n - 1, sum, dp);
+    return dp[n][sum] = fun(arr, n - 1, sum, dp) ||
+                        fun(arr, n - 1, sum - arr[n - 1], dp);
     }
-    else return dp[n][w] = fun(n-1,w,nums,dp);
-}
     bool canPartition(vector<int>& nums) {
-    int n = nums.size();
-    int sum = 0;
-    for (int num : nums) {
-        sum += num;
-    }
-    if (sum % 2 != 0) return false;
-
-    int target = sum / 2;
-    vector<bool> dp(target + 1, false);
-    dp[0] = true;
-
-    for (int num : nums) {
-        for (int j = target; j >= num; j--) {
-            dp[j] = dp[j] || dp[j - num];
+        int sum=0;
+        int n=nums.size();
+        for(int i=0;i<n;i++){
+            sum+=nums[i];
+        }
+        if(sum%2!=0) return false;
+        else{
+            vector<vector<int>>dp(n+1,vector<int>(sum/2+1, -1));
+            return fun(nums,n,sum/2,dp);
         }
     }
-
-    return dp[target];
-}
 };
