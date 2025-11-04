@@ -387,6 +387,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/iamanujkumar/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/iamanujkumar/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/iamanujkumar/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/iamanujkumar/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/iamanujkumar/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -859,6 +860,7 @@
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/iamanujkumar/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/iamanujkumar/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/iamanujkumar/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/iamanujkumar/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3639-zero-array-transformation-i](https://github.com/iamanujkumar/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -1285,6 +1287,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/iamanujkumar/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/iamanujkumar/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/iamanujkumar/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3647-zero-array-transformation-iii](https://github.com/iamanujkumar/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3678-design-task-manager](https://github.com/iamanujkumar/Leetcode/tree/master/3678-design-task-manager) |
 ## Merge Sort
@@ -1407,6 +1410,7 @@
 | [3483-alternating-groups-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/iamanujkumar/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/iamanujkumar/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Combinatorics
 |  |
 | ------- |
