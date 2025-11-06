@@ -395,6 +395,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/iamanujkumar/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3797-design-spreadsheet](https://github.com/iamanujkumar/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/iamanujkumar/Leetcode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/iamanujkumar/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## String Matching
 |  |
 | ------- |
@@ -875,6 +876,7 @@
 | [3791-fruits-into-baskets-iii](https://github.com/iamanujkumar/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/iamanujkumar/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/iamanujkumar/Leetcode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/iamanujkumar/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -993,6 +995,7 @@
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/iamanujkumar/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/iamanujkumar/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/iamanujkumar/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3863-power-grid-maintenance](https://github.com/iamanujkumar/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1068,6 +1071,7 @@
 | [3058-maximum-number-of-k-divisible-components](https://github.com/iamanujkumar/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/iamanujkumar/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/iamanujkumar/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3863-power-grid-maintenance](https://github.com/iamanujkumar/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Stack
 |  |
 | ------- |
@@ -1290,6 +1294,7 @@
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/iamanujkumar/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3647-zero-array-transformation-iii](https://github.com/iamanujkumar/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3678-design-task-manager](https://github.com/iamanujkumar/Leetcode/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/iamanujkumar/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1359,6 +1364,7 @@
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/iamanujkumar/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/iamanujkumar/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/iamanujkumar/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3863-power-grid-maintenance](https://github.com/iamanujkumar/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1459,6 +1465,7 @@
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/iamanujkumar/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2793-count-the-number-of-complete-components](https://github.com/iamanujkumar/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/iamanujkumar/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3863-power-grid-maintenance](https://github.com/iamanujkumar/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -1573,6 +1580,7 @@
 | [3678-design-task-manager](https://github.com/iamanujkumar/Leetcode/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/iamanujkumar/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/iamanujkumar/Leetcode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/iamanujkumar/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Queue
 |  |
 | ------- |
