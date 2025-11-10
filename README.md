@@ -395,6 +395,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/iamanujkumar/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3797-design-spreadsheet](https://github.com/iamanujkumar/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/iamanujkumar/Leetcode/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/iamanujkumar/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/iamanujkumar/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## String Matching
 |  |
@@ -877,6 +878,7 @@
 | [3791-fruits-into-baskets-iii](https://github.com/iamanujkumar/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/iamanujkumar/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/iamanujkumar/Leetcode/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/iamanujkumar/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/iamanujkumar/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Bit Manipulation
 |  |
@@ -1095,6 +1097,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/iamanujkumar/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/iamanujkumar/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/iamanujkumar/Leetcode/tree/master/3447-clear-digits) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/iamanujkumar/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Greedy
 |  |
 | ------- |
@@ -1142,6 +1145,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/iamanujkumar/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/iamanujkumar/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/iamanujkumar/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Memoization
 |  |
 | ------- |
@@ -1608,6 +1612,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/iamanujkumar/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3001-apply-operations-to-maximize-score](https://github.com/iamanujkumar/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/iamanujkumar/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/iamanujkumar/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Enumeration
 |  |
 | ------- |
