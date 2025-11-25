@@ -329,6 +329,7 @@
 | [0952-word-subsets](https://github.com/iamanujkumar/Leetcode/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/iamanujkumar/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/iamanujkumar/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/iamanujkumar/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/iamanujkumar/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/iamanujkumar/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/iamanujkumar/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -484,6 +485,7 @@
 | [0830-largest-triangle-area](https://github.com/iamanujkumar/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/iamanujkumar/Leetcode/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/iamanujkumar/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/iamanujkumar/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iamanujkumar/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/iamanujkumar/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/iamanujkumar/Leetcode/tree/master/1448-maximum-69-number) |
