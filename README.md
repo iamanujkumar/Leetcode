@@ -387,6 +387,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/iamanujkumar/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/iamanujkumar/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/iamanujkumar/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/iamanujkumar/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/iamanujkumar/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/iamanujkumar/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
@@ -867,6 +868,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/iamanujkumar/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/iamanujkumar/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/iamanujkumar/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3427-special-array-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/iamanujkumar/Leetcode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/iamanujkumar/Leetcode/tree/master/3430-count-days-without-meetings) |
@@ -1551,6 +1553,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/iamanujkumar/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/iamanujkumar/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/iamanujkumar/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/iamanujkumar/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3427-special-array-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/iamanujkumar/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
