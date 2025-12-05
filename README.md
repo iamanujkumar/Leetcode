@@ -518,6 +518,7 @@
 | [3201-distribute-candies-among-children-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/iamanujkumar/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/iamanujkumar/Leetcode/tree/master/3321-type-of-triangle) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/iamanujkumar/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3548-find-the-count-of-good-integers](https://github.com/iamanujkumar/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/iamanujkumar/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/iamanujkumar/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -875,6 +876,7 @@
 | [3427-special-array-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/iamanujkumar/Leetcode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/iamanujkumar/Leetcode/tree/master/3430-count-days-without-meetings) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/iamanujkumar/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/iamanujkumar/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/iamanujkumar/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1563,6 +1565,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/iamanujkumar/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/iamanujkumar/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3427-special-array-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3427-special-array-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/iamanujkumar/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/iamanujkumar/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/iamanujkumar/Leetcode/tree/master/3639-zero-array-transformation-i) |
