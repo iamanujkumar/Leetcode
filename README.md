@@ -337,6 +337,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/iamanujkumar/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/iamanujkumar/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1386-cinema-seat-allocation](https://github.com/iamanujkumar/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/iamanujkumar/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/iamanujkumar/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/iamanujkumar/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -734,6 +735,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/iamanujkumar/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/iamanujkumar/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/iamanujkumar/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1386-cinema-seat-allocation](https://github.com/iamanujkumar/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1396-count-servers-that-communicate](https://github.com/iamanujkumar/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iamanujkumar/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/iamanujkumar/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -920,6 +922,7 @@
 | [0342-power-of-four](https://github.com/iamanujkumar/Leetcode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/iamanujkumar/Leetcode/tree/master/0476-number-complement) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/iamanujkumar/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1386-cinema-seat-allocation](https://github.com/iamanujkumar/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/iamanujkumar/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/iamanujkumar/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/iamanujkumar/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -1150,6 +1153,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/iamanujkumar/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/iamanujkumar/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1304-longest-happy-string](https://github.com/iamanujkumar/Leetcode/tree/master/1304-longest-happy-string) |
+| [1386-cinema-seat-allocation](https://github.com/iamanujkumar/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1448-maximum-69-number](https://github.com/iamanujkumar/Leetcode/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/iamanujkumar/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/iamanujkumar/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
