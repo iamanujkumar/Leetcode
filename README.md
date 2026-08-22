@@ -526,6 +526,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/iamanujkumar/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/iamanujkumar/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/iamanujkumar/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/iamanujkumar/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/iamanujkumar/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
