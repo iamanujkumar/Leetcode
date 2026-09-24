@@ -563,6 +563,7 @@
 | [0063-unique-paths-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/iamanujkumar/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/iamanujkumar/Leetcode/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/iamanujkumar/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/iamanujkumar/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/iamanujkumar/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamanujkumar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -670,6 +671,7 @@
 | [0075-sort-colors](https://github.com/iamanujkumar/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/iamanujkumar/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/iamanujkumar/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/iamanujkumar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/iamanujkumar/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -1121,6 +1123,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/iamanujkumar/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/iamanujkumar/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0145-binary-tree-postorder-traversal](https://github.com/iamanujkumar/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/iamanujkumar/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -1210,6 +1213,7 @@
 | [0064-minimum-path-sum](https://github.com/iamanujkumar/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/iamanujkumar/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/iamanujkumar/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/iamanujkumar/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/iamanujkumar/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0787-sliding-puzzle](https://github.com/iamanujkumar/Leetcode/tree/master/0787-sliding-puzzle) |
@@ -1669,6 +1673,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/iamanujkumar/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/iamanujkumar/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/iamanujkumar/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/iamanujkumar/Leetcode/tree/master/1002-maximum-width-ramp) |
