@@ -1129,6 +1129,7 @@
 | [0503-next-greater-element-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/iamanujkumar/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/iamanujkumar/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0901-online-stock-span](https://github.com/iamanujkumar/Leetcode/tree/master/0901-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/iamanujkumar/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/iamanujkumar/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/iamanujkumar/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -1543,6 +1544,7 @@
 | [0731-my-calendar-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/iamanujkumar/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/iamanujkumar/Leetcode/tree/master/0859-design-circular-deque) |
+| [0901-online-stock-span](https://github.com/iamanujkumar/Leetcode/tree/master/0901-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/iamanujkumar/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/iamanujkumar/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/iamanujkumar/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -1560,6 +1562,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/iamanujkumar/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/iamanujkumar/Leetcode/tree/master/0901-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/iamanujkumar/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Quickselect
 |  |
@@ -1676,6 +1679,7 @@
 | [0085-maximal-rectangle](https://github.com/iamanujkumar/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/iamanujkumar/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0901-online-stock-span](https://github.com/iamanujkumar/Leetcode/tree/master/0901-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/iamanujkumar/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/iamanujkumar/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/iamanujkumar/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
