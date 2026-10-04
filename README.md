@@ -1748,4 +1748,8 @@
 |  |
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/iamanujkumar/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/iamanujkumar/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
