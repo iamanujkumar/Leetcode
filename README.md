@@ -470,6 +470,7 @@
 | [3430-count-days-without-meetings](https://github.com/iamanujkumar/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/iamanujkumar/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/iamanujkumar/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/iamanujkumar/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3748-sort-matrix-by-diagonals](https://github.com/iamanujkumar/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
 |  |
@@ -917,6 +918,7 @@
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/iamanujkumar/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/iamanujkumar/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/iamanujkumar/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/iamanujkumar/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/iamanujkumar/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/iamanujkumar/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/iamanujkumar/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -1204,6 +1206,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/iamanujkumar/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/iamanujkumar/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/iamanujkumar/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/iamanujkumar/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Memoization
 |  |
