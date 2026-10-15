@@ -389,6 +389,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/iamanujkumar/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/iamanujkumar/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/iamanujkumar/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-count-of-interesting-subarrays](https://github.com/iamanujkumar/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/iamanujkumar/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -875,6 +876,7 @@
 | [2868-continuous-subarrays](https://github.com/iamanujkumar/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/iamanujkumar/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/iamanujkumar/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/iamanujkumar/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-count-of-interesting-subarrays](https://github.com/iamanujkumar/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/iamanujkumar/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -1454,6 +1456,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/iamanujkumar/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1511-count-number-of-teams](https://github.com/iamanujkumar/Leetcode/tree/master/1511-count-number-of-teams) |
 | [2280-count-good-triplets-in-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/iamanujkumar/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/iamanujkumar/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Sliding Window
 |  |
@@ -1652,6 +1655,7 @@
 | [0729-my-calendar-i](https://github.com/iamanujkumar/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/iamanujkumar/Leetcode/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/iamanujkumar/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/iamanujkumar/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/iamanujkumar/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3791-fruits-into-baskets-iii](https://github.com/iamanujkumar/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
