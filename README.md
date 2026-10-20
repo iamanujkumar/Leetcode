@@ -474,6 +474,7 @@
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/iamanujkumar/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/iamanujkumar/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3748-sort-matrix-by-diagonals](https://github.com/iamanujkumar/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3886-sum-of-sortable-integers](https://github.com/iamanujkumar/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Math
 |  |
 | ------- |
@@ -541,6 +542,7 @@
 | [3637-count-number-of-balanced-permutations](https://github.com/iamanujkumar/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/iamanujkumar/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/iamanujkumar/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3886-sum-of-sortable-integers](https://github.com/iamanujkumar/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -936,6 +938,7 @@
 | [3827-implement-router](https://github.com/iamanujkumar/Leetcode/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/iamanujkumar/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/iamanujkumar/Leetcode/tree/master/3863-power-grid-maintenance) |
+| [3886-sum-of-sortable-integers](https://github.com/iamanujkumar/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1732,6 +1735,7 @@
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/iamanujkumar/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/iamanujkumar/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3886-sum-of-sortable-integers](https://github.com/iamanujkumar/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Monotonic Queue
 |  |
 | ------- |
