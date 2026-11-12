@@ -893,6 +893,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/iamanujkumar/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-count-of-interesting-subarrays](https://github.com/iamanujkumar/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/iamanujkumar/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/iamanujkumar/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/iamanujkumar/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/iamanujkumar/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
